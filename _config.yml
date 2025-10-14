@@ -23,8 +23,8 @@ email: dieeneliam@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my blog! I'm Liam and I'm a tech enthusiast :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dieeneliam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "404"
+url: "https://dieeneliam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_usern	ame: "404"
 github_username: dieeneliam
 
 # Build settings
