@@ -20,8 +20,7 @@
 
 title: Liam's blog
 email: dieeneliam@proton.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello and welcome to my blog! I'm Liam and I'm a tech enthusiast :)
+description: >- # this means to ignore newlines until "baseurl:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dieeneliam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_usern	ame: "404"
